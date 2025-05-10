@@ -34,11 +34,9 @@ BrightTV recently onboarded a new CEO who requested an analysis of viewership tr
 
 ## How to Use
 
-1. Open the `BrightTV _Dataset_CASE_STUDY 1.xlsx` file.
-2. Use the SQL scripts in `brighttv_sql_code.sql` to process the data in Snowflake.
-3. Export cleaned data to Excel or Power BI.
-4. Use the Excel workbook or Power BI file to explore trends through charts and pivot tables.
-5. Read the final insights in the `Presentation.pptx`.
+1. Open the `BrightTV _Dataset_CASE_STUDY(1).pdf` file.
+2. See how the data was cleaned in Excel and analysed in Snowflake.
+3. Read the final insights in the `Presentation.pptx`.
 
 ---
 
@@ -52,9 +50,6 @@ BrightTV recently onboarded a new CEO who requested an analysis of viewership tr
 ## Future Improvements
 
 - Add loyalty program analysis
-- Track watch time per device (mobile vs. smart TV)
-- Automate weekly reporting dashboard
-
 ---
 
 > Created as part of a practical case study for BrightLight Tutorials
