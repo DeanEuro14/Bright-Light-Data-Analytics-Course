@@ -42,14 +42,18 @@ BrightTV recently onboarded a new CEO who requested an analysis of viewership tr
 
 ## Deliverables
 
-- `BrightTV _Dataset_Case Study (1).pdf` – Workflow document
+- `BrightTV _Dataset_Case Study (1).pdf` – Workflow Explanation Document
 - `BrightTV Presentation.pdf` – Presentation
+- `BrightTV Case Study.xlsx` - Excel Document (Sheets: UserProfiles & Viewership)
+- `BrightTV.sql` - SQL File 
 
 ---
 
 ## Future Improvements
 
-- Add loyalty program analysis
+- Create push notifications
+- Add loyalty program
+- Add podcasts & reality shows
 ---
 
-> Created as part of a practical case study for BrightLight Tutorials
+> Created as part of a case study for the BrightLight Data Analytics course facilitated by Rofhiwa Nemukula
